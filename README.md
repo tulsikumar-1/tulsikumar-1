@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Tulsi Kumar!  
 
-🚀 **AI and RoboticsEngineer | LLMs  | Computer Vision | Deep Learning** 
+🚀 **AI and Robotics Engineer | LLMs  | Computer Vision | Deep Learning** 
 
 I specialize in **Large Language Models (LLMs), deep learning, and computer vision**, working on AI-driven solutions for **text and image processing**. My work involves **developing, optimizing, and applying AI models** for real-world applications, from **LLM-based text analysis** to **computer vision tasks like object detection and anomaly detection**.  
 
