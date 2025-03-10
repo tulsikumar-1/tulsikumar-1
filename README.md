@@ -27,12 +27,11 @@ I specialize in **Large Language Models (LLMs), deep learning, and computer visi
 - 🤖 **Human-Robot Interaction** – AI-powered reasoning for interactive systems 
 
 ## 🚀 **Featured Projects**  
-🔹 [**Story Generation Using Keywords**](https://github.com/tulsikumar-1/Story-generation-using-keywords) – AI-generated narratives from keyword prompts. 📖✨  
-🔹 [**Keyword Extraction from Text**](https://github.com/tulsikumar-1/Important-Keyword-Extraction-From-text) – Extracting important words from documents. 🔍  
-🔹 [**LW-DETR**](https://github.com/tulsikumar-1/lw-detr) – Lightweight DETR-based object detection model. 🏎️  
-🔹 [**Traffic Monitoring Dataset**](https://github.com/tulsikumar-1/traffic_monitoring_dataset) – Dataset for AI-based traffic analysis. 🚦  
+🔹 [**LW-DETR**](https://github.com/tulsikumar-1/lw-detr) – Lightweight DETR-based object detection model. 🏎️   
 🔹 [**Multi-Robot Simulator (ROS)**](https://github.com/tulsikumar-1/Multi_robot_simulator-ROS) – Path-Planning multi-agent simulation. 🤖  
 🔹 [**Tic-Tac-Toe with Pepper**](https://github.com/tulsikumar-1/Tic-Tac-Toe-with-Pepper) – Human-Robot Interaction with AI-powered decision-making. 🎮🤖  
+🔹 [**Story Generation Using Keywords**](https://github.com/tulsikumar-1/Story-generation-using-keywords) – AI-generated narratives from keyword prompts. 📖✨  
+🔹 [**Keyword Extraction from Text**](https://github.com/tulsikumar-1/Important-Keyword-Extraction-From-text) – Extracting important words from documents. 🔍  
 
 
 ## 📫 **Let's Connect!**  
