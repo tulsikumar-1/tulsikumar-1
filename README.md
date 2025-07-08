@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 I specialize in **Large Language Models (LLMs), deep learning, and computer vision**, working on AI-driven solutions for **text and image processing**. My work involves **developing, optimizing, and applying AI models** for real-world applications, from **LLM-based text analysis** to **computer vision tasks like object detection and anomaly detection**.  
 
-## 🔥 **What I Work On**  
+## 🔥 **What I Work on**  
 - 🧠 **LLMs & NLP** – RAG, Chatbots, Text processing, keyword extraction, and automation  
-- 📸 **Computer Vision** – Object detection, segmentation, and anomaly detection  
-- ⚡ **Model Optimization** – Lightweight architectures, pruning, and distillation  
+- 📸 **Computer Vision** – VLMs,Object detection, segmentation, and anomaly detection  
+- ⚡ **Model Optimization** – Lightweight architectures, pruning,Quantization and distillation  
 - 🤖 **Human-Robot Interaction** – AI-powered reasoning for interactive systems 
 
 ## 🚀 **Featured Projects**  
