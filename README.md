@@ -22,7 +22,7 @@ I specialize in **Large Language Models (LLMs), deep learning, and computer visi
 ## 🔥 **What I Work on**  
 - 🧠 **LLMs & NLP** – RAG, Chatbots, Text processing, keyword extraction, and automation  
 - 📸 **Computer Vision** – VLMs,Object detection, segmentation, and anomaly detection  
-- ⚡ **Model Optimization** – Lightweight architectures, pruning,Quantization and distillation  
+- ⚡ **Model Optimization** – Lightweight architectures, pruning,quantization and distillation  
 - 🤖 **Human-Robot Interaction** – AI-powered reasoning for interactive systems 
 
 ## 🚀 **Featured Projects**  
