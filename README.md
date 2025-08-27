@@ -25,8 +25,9 @@ I specialize in **Large Language Models (LLMs), deep learning, and computer visi
  ⚡ **Model Optimization** – Lightweight architectures, pruning, quantization, and distillation  
  🤖 **Human-Robot Interaction** – AI-powered reasoning for interactive systems 
 
-## **Featured Projects**  
-* [**LW-DETR**](https://github.com/tulsikumar-1/lw-detr) – Lightweight DETR-based object detection model.   
+## **Featured Projects**
+* [**ai-ecommerce**](https://github.com/tulsikumar-1/ai-ecommerce.git) –AI Enhanced E-Commerce Product Catalog with LLM search
+* [**Scalable-RAG-Bot**](https://github.com/tulsikumar-1/Scalable-RAG-Bot.git) – Lightweight DETR-based object detection model.   
 * [**Multi-Robot Simulator (ROS)**](https://github.com/tulsikumar-1/Multi_robot_simulator-ROS) – Path-Planning multi-agent simulation.
 * [**Tic-Tac-Toe with Pepper**](https://github.com/tulsikumar-1/Tic-Tac-Toe-with-Pepper) – Human-Robot Interaction with AI-powered decision-making.
 * [**Story Generation Using Keywords**](https://github.com/tulsikumar-1/Story-generation-using-keywords) – AI-generated narratives from keyword prompts.
