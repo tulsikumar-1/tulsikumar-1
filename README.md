@@ -1,4 +1,4 @@
-![Header image](https://github.com/user-attachments/assets/defc3c1a-45e5-461d-9a78-c08ee52ee7fc)
+![Big Banner](https://github.com/user-attachments/assets/defc3c1a-45e5-461d-9a78-c08ee52ee7fc)
 
 <!--
 **tulsikumar-1/tulsikumar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
