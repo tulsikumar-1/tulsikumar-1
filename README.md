@@ -1,11 +1,11 @@
-![Background Banner](https://github.com/user-attachments/assets/defc3c1a-45e5-461d-9a78-c08ee52ee7fc)
-
-<!-- ===== Introduction Section ===== -->
-# 👋 Hi, I'm Tulsi Kumar!  
-
-**AI & Robotics Engineer | NLP | Computer Vision | Deep Learning**  
-
-I specialize in **Large Language Models (LLMs), deep learning, and computer vision**, developing **AI-driven solutions for text and image processing**. My work spans **LLM-based text analysis**, **computer vision tasks like object detection and anomaly detection**, and **optimization of AI models** for real-world applications.
+<!-- Simulated Background Section -->
+<div align="center" style="position: relative; text-align: center; color: white;">
+  <img src="https://github.com/user-attachments/assets/defc3c1a-45e5-461d-9a78-c08ee52ee7fc" alt="Background Banner" style="width:100%; max-height:500px; object-fit:cover; filter: brightness(0.5) blur(1px); border-radius:10px;">
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <h1 style="font-size:3em; margin:0;">👋 Hi, I'm Tulsi Kumar!</h1>
+    <h3 style="margin:5px 0;">AI & Robotics Engineer | NLP | Computer Vision | Deep Learning</h3>
+  </div>
+</div>
 
 ---
 
