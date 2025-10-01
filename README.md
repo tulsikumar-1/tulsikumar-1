@@ -1,4 +1,5 @@
-![Header image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fdark-high-contrast-textured-tech-background_17389954.htm&psig=AOvVaw3zLsH3zKB2KvGDCS0tWcKO&ust=1759408345496000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJil_v6Ag5ADFQAAAAAdAAAAABAE)
+![Header image](https://github.com/user-attachments/assets/defc3c1a-45e5-461d-9a78-c08ee52ee7fc)
+
 <!--
 **tulsikumar-1/tulsikumar-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
