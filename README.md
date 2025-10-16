@@ -26,7 +26,6 @@
 - [**Lightweight Object Detection**](https://github.com/tulsikumar-1/lw-detr) – Light weight DETR-based object detection with ViT Backbone  
 - [**Multi-Robot Simulator (ROS)**](https://github.com/tulsikumar-1/Multi_robot_simulator-ROS) – Multi-agent path-planning simulation  
 - [**Tic-Tac-Toe with Pepper**](https://github.com/tulsikumar-1/Tic-Tac-Toe-with-Pepper) – Human-Robot Interaction with AI-powered decisions  
-- [**Story Generation Using Keywords**](https://github.com/tulsikumar-1/Story-generation-using-keywords) – Generate narratives from keyword prompts  
 - [**Keyword Extraction from Text**](https://github.com/tulsikumar-1/Important-Keyword-Extraction-From-text) – Extract important words from documents  
 
 ---
