@@ -22,8 +22,8 @@
 
 ## 🚀 Featured Projects
 - [**AI-Ecommerce**](https://github.com/tulsikumar-1/ai-ecommerce.git) – AI-enhanced e-commerce product catalog with LLM search  
-- [**Scalable-RAG-Bot**](https://github.com/tulsikumar-1/Scalable-RAG-Bot.git) – Lightweight DETR-based object detection model  
-- [**Lightweight Object Detection**](https://github.com/tulsikumar-1/lw-detr) – Efficient DETR-based object detection  
+- [**Scalable-RAG-Bot**](https://github.com/tulsikumar-1/Scalable-RAG-Bot.git) – a customizable and scalable RAG chatbot for question answering.
+- [**Lightweight Object Detection**](https://github.com/tulsikumar-1/lw-detr) – Light weight DETR-based object detection with ViT Backbone  
 - [**Multi-Robot Simulator (ROS)**](https://github.com/tulsikumar-1/Multi_robot_simulator-ROS) – Multi-agent path-planning simulation  
 - [**Tic-Tac-Toe with Pepper**](https://github.com/tulsikumar-1/Tic-Tac-Toe-with-Pepper) – Human-Robot Interaction with AI-powered decisions  
 - [**Story Generation Using Keywords**](https://github.com/tulsikumar-1/Story-generation-using-keywords) – Generate narratives from keyword prompts  
