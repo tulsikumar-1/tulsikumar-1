@@ -1,7 +1,7 @@
 <!-- Simulated Background Section -->
 <div align="center" style="position: relative; text-align: center; color: white;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <h1 style="font-size:3em; margin:0;">👋 Hi, I'm Tulsi Kumar!</h1>
+    <h1 style="font-size:3em; margin:0;"> Hi, I am Tulsi Kumar!</h1>
     <h3 style="margin:5px 0;">AI & Robotics Engineer | Computer Vision | Deep Learning| Gen AI </h3>
   </div>
 </div>
@@ -11,10 +11,10 @@
 ## 🛠 What I Work On
 <div style="background-color:#f6f8fa; padding:15px; border-radius:10px;">
   
-- 📸 **Computer Vision** – Vision-language models, Object detection, Segmentation, Anomaly detection
-- ⚡ **Model Optimization** – Lightweight architectures, Pruning, Quantization, Distillation  
-- 🤖 **Human-Robot Interaction** – AI-powered reasoning for interactive systems
-- 🧠 **LLMs & NLP** – RAG, Chatbots, Text processing, Keyword extraction, Automation  
+- **Computer Vision** – Vision-language models, Object detection, Segmentation, Anomaly detection
+- **Model Optimization** – Lightweight architectures, Pruning, Quantization, Distillation  
+- **Human-Robot Interaction** – AI-powered reasoning for interactive systems
+- **LLMs & NLP** – RAG, Chatbots, Text processing, Keyword extraction, Automation  
 
 
 </div>
