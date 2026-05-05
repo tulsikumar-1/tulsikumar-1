@@ -11,10 +11,10 @@
 ## 🛠 What I Work On
 <div style="background-color:#f6f8fa; padding:15px; border-radius:10px;">
   
+- **LLMs & NLP** – RAG, Chatbots, Text processing, Keyword extraction, Automation  
 - **Computer Vision** – Vision-language models, Object detection, Segmentation, Anomaly detection
 - **Model Optimization** – Lightweight architectures, Pruning, Quantization, Distillation  
 - **Human-Robot Interaction** – AI-powered reasoning for interactive systems
-- **LLMs & NLP** – RAG, Chatbots, Text processing, Keyword extraction, Automation  
 
 
 </div>
@@ -22,11 +22,11 @@
 ---
 
 ## 🚀 Featured Projects
+- [**Scalable-RAG-Bot**](https://github.com/tulsikumar-1/Scalable-RAG-Bot.git) – a customizable and scalable RAG chatbot for question answering.
 - [**AI-Ecommerce**](https://github.com/tulsikumar-1/ai-ecommerce.git) – AI-enhanced e-commerce product catalog with LLM search  
 - [**Lightweight Object Detection**](https://github.com/tulsikumar-1/lw-detr) – Light weight DETR-based object detection with ViT Backbone  
 - [**Multi-Robot Simulator (ROS)**](https://github.com/tulsikumar-1/Multi_robot_simulator-ROS) – Multi-agent path-planning simulation  
 - [**Tic-Tac-Toe with Pepper**](https://github.com/tulsikumar-1/Tic-Tac-Toe-with-Pepper) – Human-Robot Interaction with AI-powered decisions
-- [**Scalable-RAG-Bot**](https://github.com/tulsikumar-1/Scalable-RAG-Bot.git) – a customizable and scalable RAG chatbot for question answering.
 
 ---
 
