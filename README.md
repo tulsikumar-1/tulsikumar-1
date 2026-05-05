@@ -11,7 +11,7 @@
 ## 🛠 What I Work On
 <div style="background-color:#f6f8fa; padding:15px; border-radius:10px;">
   
-- **LLMs & NLP** – RAG, Chatbots, Text processing, Keyword extraction, Automation  
+- **LLMs & NLP** – Agents, RAG, Chatbots, Text processing, Keyword extraction, Automation  
 - **Computer Vision** – Vision-language models, Object detection, Segmentation, Anomaly detection
 - **Model Optimization** – Lightweight architectures, Pruning, Quantization, Distillation  
 - **Human-Robot Interaction** – AI-powered reasoning for interactive systems
